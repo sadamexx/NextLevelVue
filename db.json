@@ -1,0 +1,316 @@
+{
+  "events": [
+    {
+      "id": 1,
+      "title": "Beach Cleanup",
+      "date": "Aug 28 2018",
+      "time": "10:00",
+      "location": "Daytona Beach",
+      "description": "Let's clean up this beach.",
+      "organizer": "Adam Jahr",
+      "category": "sustainability",
+      "attendees": [
+        {
+          "id": "abc123",
+          "name": "Adam Jahr"
+        },
+        {
+          "id": "def456",
+          "name": "Gregg Pollack"
+        },
+        {
+          "id": "ghi789",
+          "name": "Beth Swanson"
+        },
+        {
+          "id": "jkl101",
+          "name": "Mary Gordon"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Park Cleanup",
+      "date": "Nov 12 2018",
+      "time": "12:00",
+      "location": "132 N Magnolia Street, Orlando, Florida",
+      "description": "We're going to clean up this park.",
+      "organizer": "Adam Jahr",
+      "category": "nature",
+      "attendees": [
+        {
+          "id": "ghi789",
+          "name": "Beth Swanson"
+        },
+        {
+          "id": "jkl101",
+          "name": "Mary Gordon"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Pet Adoption Day",
+      "date": "Dec 2 2018",
+      "time": "12:00",
+      "location": "132 N Magnolia Street, Orlando, Florida",
+      "description": "Help animals find new homes.",
+      "organizer": "Gregg Pollack",
+      "category": "animal welfare",
+      "attendees": [
+        {
+          "id": "abc123",
+          "name": "Adam Jahr"
+        },
+        {
+          "id": "ghi789",
+          "name": "Beth Swanson"
+        },
+        {
+          "id": "jkl101",
+          "name": "Mary Gordon"
+        }
+      ]
+    },
+    {
+      "id": 3383554,
+      "category": "animal welfare",
+      "organizer": {
+        "id": "abc124",
+        "name": "Ozo Mut"
+      },
+      "title": "Pause for Paws",
+      "description": "blahblah blah",
+      "location": "Liberty Park",
+      "date": "2022-06-16T13:46:00.000Z",
+      "time": "4:00",
+      "attendees": []
+    },
+    {
+      "id": 5721929,
+      "category": "nature",
+      "organizer": {
+        "id": "abc124",
+        "name": "Ozo Mut"
+      },
+      "title": "Planting trees",
+      "description": "plant trees that give edible fruit for community",
+      "location": "Your backyard",
+      "date": "2022-04-30T14:12:00.000Z",
+      "time": "10:00",
+      "attendees": []
+    },
+    {
+      "id": 5729,
+      "category": "nature",
+      "organizer": {
+        "id": "abc124",
+        "name": "Chanyeol"
+      },
+      "title": "Fan Meet",
+      "description": "Meeting fans and having fun",
+      "location": "Sm building",
+      "date": "2022-05-25T14:12:00.000Z",
+      "time": "10:00",
+      "attendees": []
+    },
+    {
+      "id": 4931513,
+      "user": {
+        "id": "abc123",
+        "name": "OzoMut"
+      },
+      "category": "education",
+      "organizer": {
+        "id": "abc123",
+        "name": "OzoMut"
+      },
+      "title": "English Practice",
+      "description": "A fun day using all the english you know",
+      "location": "The Chapel",
+      "date": "2022-05-07T13:23:00.000Z",
+      "time": "10:00",
+      "attendees": []
+    },
+    {
+      "id": 2470536,
+      "user": {
+        "id": "abc123",
+        "name": "OzoMut"
+      },
+      "category": "community",
+      "organizer": {
+        "id": "abc123",
+        "name": "OzoMut"
+      },
+      "title": "Painting Murals",
+      "description": "We'll be painting murals on the big wall by church",
+      "location": "Across from church",
+      "date": "2022-06-03T13:33:00.000Z",
+      "time": "9:00",
+      "attendees": []
+    },
+    {
+      "id": 797461,
+      "user": {
+        "id": "abc123",
+        "name": "OzoMut"
+      },
+      "category": "animal welfare",
+      "organizer": {
+        "id": "abc123",
+        "name": "OzoMut"
+      },
+      "title": "Puppy Picnic",
+      "description": "Bring your pup and a puppy treat! Be ready for fun",
+      "location": "Liberty Park",
+      "date": "2022-06-01T16:39:00.000Z",
+      "time": "11:00",
+      "attendees": []
+    },
+    {
+      "id": 656575,
+      "user": {
+        "id": "abc123",
+        "name": "OzoMut"
+      },
+      "category": "nature",
+      "organizer": {
+        "id": "abc123",
+        "name": "OzoMut"
+      },
+      "title": "Doggo Hike",
+      "description": "Hike with our dogs off leash",
+      "location": "Dog Hill",
+      "date": "2022-05-05T16:40:00.000Z",
+      "time": "4:00",
+      "attendees": []
+    },
+    {
+      "id": 6726315,
+      "user": {
+        "id": "abc123",
+        "name": "OzoMut"
+      },
+      "category": "nature",
+      "organizer": {
+        "id": "abc123",
+        "name": "OzoMut"
+      },
+      "title": "",
+      "description": "",
+      "location": "",
+      "date": "",
+      "time": "",
+      "attendees": []
+    },
+    {
+      "id": 8910762,
+      "user": {
+        "id": "abc123",
+        "name": "OzoMut"
+      },
+      "category": "housing",
+      "organizer": {
+        "id": "abc123",
+        "name": "OzoMut"
+      },
+      "title": "",
+      "description": "",
+      "location": "",
+      "date": "",
+      "time": "",
+      "attendees": []
+    },
+    {
+      "id": 6509287,
+      "user": {
+        "id": "abc123",
+        "name": "OzoMut"
+      },
+      "category": "food",
+      "organizer": {
+        "id": "abc123",
+        "name": "OzoMut"
+      },
+      "title": "Ozo picnic",
+      "description": "yah",
+      "location": "woot",
+      "date": "2022-04-22T15:51:00.000Z",
+      "time": "3:00",
+      "attendees": []
+    },
+    {
+      "id": 8210476,
+      "user": {
+        "id": "abc123",
+        "name": "OzoMut"
+      },
+      "category": "animal welfare",
+      "organizer": {
+        "id": "abc123",
+        "name": "OzoMut"
+      },
+      "title": "Puppy Promenade",
+      "description": "Yay pups",
+      "location": "Taj mahal",
+      "date": "2022-05-06T16:41:00.000Z",
+      "time": "4:00",
+      "attendees": []
+    },
+    {
+      "id": 6156418,
+      "user": {
+        "id": "abc123",
+        "name": "OzoMut"
+      },
+      "category": "food",
+      "organizer": {
+        "id": "abc123",
+        "name": "OzoMut"
+      },
+      "title": "dsf",
+      "description": "sdf",
+      "location": "sdf",
+      "date": "2022-04-30T21:00:00.000Z",
+      "time": "4:00",
+      "attendees": []
+    },
+    {
+      "id": 3769201,
+      "user": {
+        "id": "abc123",
+        "name": "OzoMut"
+      },
+      "category": "education",
+      "organizer": {
+        "id": "abc123",
+        "name": "OzoMut"
+      },
+      "title": "Dude",
+      "description": "Is this working",
+      "location": "Your moms",
+      "date": "2022-05-14T21:02:00.000Z",
+      "time": "4:00",
+      "attendees": []
+    },
+    {
+      "id": 521424,
+      "user": {
+        "id": "abc123",
+        "name": "OzoMut"
+      },
+      "category": "animal welfare",
+      "organizer": {
+        "id": "abc123",
+        "name": "OzoMut"
+      },
+      "title": "Save the Turtles",
+      "description": "Plastic clean up at beach",
+      "location": "Playa Juan Dolio",
+      "date": "2022-05-13T14:44:00.000Z",
+      "time": "4:00",
+      "attendees": []
+    }
+  ]
+}
